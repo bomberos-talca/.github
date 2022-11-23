@@ -12,10 +12,14 @@ Each one solves an administrative or active command problem that the firefighter
   and send message to whatsapp and telegram.
 * [Rakor App](https://github.com/bomberos-talca/rakor-app)
   - Disponibilize endpoints for whatsapp bot messages
+* [Allergy - Frontend](https://github.com/bomberos-talca/allergy-frontend)
+  - This application renders the information of the health status of the firefighters.
+* [Dispatch Console](https://github.com/bomberos-talca/dispatch-console)
+  - This application is used to manage the dispatch of the firefighters.
 
 ## Contributing 🤝
 If you want to contribute to the development of these applications, you must request access to the organization. 
-You can do it by sending an email to [email](mailto:franciscosandov5@gmail.com) with the subject 
+You can do it by sending an email to [franciscosandov5@gmail.com](mailto:franciscosandov5@gmail.com) with the subject 
 "Request to join Bomberos Talca organization". 
 You must also include your github username and a brief description of why you want to join the organization.
 
