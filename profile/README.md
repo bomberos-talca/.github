@@ -7,13 +7,17 @@ Each one solves an administrative or active command problem that the firefighter
 
 ## Applications ‍💻
 
+* [Boden App](https://github.com/bomberos-talca/boden-app)
+  - This application renders all the others apps in a single page application.
 * [Chinchilla App](https://github.com/bomberos-talca/chinchilla-app)
   - This application is used to get information from [Twitter - Zeus Talca](https://twitter.com/ZEUS_Talca), process it 
   and send message to whatsapp and telegram.
 * [Rakor App](https://github.com/bomberos-talca/rakor-app)
-  - Disponibilize endpoints for whatsapp bot messages
+  - This application makes endpoints available in order to send messages to whatsApp Name or Group.
 * [Allergy - Frontend](https://github.com/bomberos-talca/allergy-frontend)
   - This application renders the information of the health status of the firefighters.
+* [Allergy - Backend](https://github.com/bomberos-talca/allergy-backend)
+  - This is a backend for an allergy app. It is a REST API that allows users to register health information.
 * [Dispatch Console](https://github.com/bomberos-talca/dispatch-console)
   - This application is used to manage the dispatch of the firefighters.
 
